@@ -11,6 +11,4 @@ Hi All,
 After working on these packages for long, I can confidently say that these are the best resources to get started with data analytics python packages. These have helped me over the years to recall the required concepts as well. Please check them out
 
 Credits:
-FreeCodeCamp
-Derek Banas
-Corey Schafer
+1. FreeCodeCamp | 2. Derek Banas | 3. Corey Schafer. You can check them out on Youtube
